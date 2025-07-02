@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+div{
+    margin: 5px;
+}
+
+#header{
+    width:100%;
+	text-align:center;
+	background-color: #55c539;
+}
+
+#content{
+    margin:0px;
+    padding-left: 2%;
+    background-color: #fff;
+    width:70%;
+    float: left;
+}
+
+#nav{
+    text-align: center;
+    width: 10%;
+    float: left;
+    background-color: #343688;
+    color:white;
+}
+
+a{
+    color:white;
+}
